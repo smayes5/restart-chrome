@@ -1,2 +1,2 @@
-# restart-chrome
-A PowerShell script that stops all Chrome processes, including background processes, then restarts Chrome
+# Restart Google Chrome
+A PowerShell script that stops all Chrome processes, including background processes, then restarts Chrome. I developed this script because I have issues on my current personal laptop - a Lenovo Flex 5 15 - with the mouse cursor disappearing after using the touchscreen for a bit within Chrome. I've attempted disabling hardware graphics acceleration, but the only thing that works consistently to restore my mouse cursor within Chrome is stopping all of the Chrome processes. Once Chrome is then restarted again, the mouse cursor is back.
